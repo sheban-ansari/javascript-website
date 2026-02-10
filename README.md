@@ -10,9 +10,9 @@ This project demonstrates core front-end development concepts such as DOM manipu
 -  Fully responsive design (Mobile, Tablet, Desktop)
 -  Interactive dropdown selection
 -  Modal popup with multiple close options
-  - Close button (×)
-  - Background click
-  - ESC key support
+   - Close button (×)
+   - Background click
+   - ESC key support
 -  Contact form with client-side validation
 -  Success and error feedback messages
 -  Auto-hide success message after form submission
